@@ -1,0 +1,15 @@
+body {
+ font-family: fantasy;
+  background-color: rgb(200,150,400);
+  text-align: center;
+}
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.attributes {
+  text-align: left;
+}
+#titlecolor
+{color: purple}
